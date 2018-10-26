@@ -297,7 +297,36 @@ Click ***this*** button and select the google assistant from the service .
 
 next choose a trigger from the listed items , for our application I used ***Say a simple phrase***
 
+
 ![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/024.png)
+
+next we need to set Say a simple phrase , `This trigger fires when you say “Ok Google” to the Google Assistant followed by a phrase you choose. For example, say “Ok Google, I’m running late” to text a family member that you’re on your way home.`
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/025.png)
+
+next select the ***that***
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/026.png)
+
+ we need select a ***Choose action service*** , we choosed Adafruit service
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/027.png)
+
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/028.png)
+
+so next we need Complete action fields by gaving the Feed name and Data to save
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/029.png)
+
+we completed the work and as last step we need to proceeds ***Review and finish***
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/030.png)
+
+and we need to the same IFTTT Applet for Turn Off the Light .after that use your  Google Assistant in your mobile phone to control devices
+
+
+## Thank You.
 
 
 
