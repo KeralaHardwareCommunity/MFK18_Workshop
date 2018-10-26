@@ -95,6 +95,18 @@ and We are done with the cloud part , our dashbord will look like this .
 
 ## Code 
 
+Next upload the code , for that we need set target board in the Arduino IDE.
+
+`Tools => Board => NodeMCU ESP-12E`
+
+![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/017.jfif)
+
+Select Port in same menu (in my case, I have Port-3).
+
+`Note: Only the boards appear when you download the Board definitions.`
+
+
+
 ```
 
 #include <ESP8266WiFi.h>
@@ -225,6 +237,28 @@ void MQTT_connect()
 
 
 ```
+
+
+Before uploding the code we need to change some parameters , like wifi congi,mqtt credentials ..
+
+```
+#define WIFI_SSID "WiFi Name"
+#define WIFI_PASS "WiFi Password"
+
+```
+
+Replace the WiFi Name with your WiFi SSID name Password 
+
+
+```
+#define MQTT_NAME "Adafruit.io User Name"
+#define MQTT_PASS "AIO key"
+
+```
+ In this code block re-place the MQTT_NAME with your Adafruit.io User name , and MQTT_PASS with AIO Key .
+
+![adafruitio](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/018.png)
+
 
 
 
