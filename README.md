@@ -18,11 +18,11 @@ In default Arduino IDE only Support Native boards like UNO,Nano.. etc , so we ne
 
  **NodeMCU Board Definition**
 
-Open Arduino IDE and add additional Board URL `` File => Preference (Ctrl + Comma) ``
+Open Arduino IDE and add additional Board URL ` File => Preference (Ctrl + Comma) `
 
 ![additional Board URL File](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/001.jfif)
 
-In Additional Boards Manager, click add and paste the URL there `` http://arduino.esp8266.com/stable/package_esp8266com_index.json ``
+In Additional Boards Manager, click add and paste the URL there ` http://arduino.esp8266.com/stable/package_esp8266com_index.json `
 And click "OK".
 
 ![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/002.jfif)
@@ -32,7 +32,7 @@ And click "OK".
 
 **Download Board Definitions**
 
-Open Board Manager by going to `` Tools => Board => Boards Manger ``
+Open Board Manager by going to ` Tools => Board => Boards Manger `
 
 ![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/004.jfif)
 
