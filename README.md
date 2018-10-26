@@ -260,6 +260,26 @@ Replace the WiFi Name with your WiFi SSID name Password
 ![adafruitio](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/018.png)
 
 
+after uplaoding the code open your serial monitor (9600 buad rate) so we can see some usefull messages ,
+
+![serialmonitor](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/019.png)
+
+
+## 4. Testing Adafruit.io 
+
+After the sketch uploading everything is fine we can now test the adafruit cloud dashboard .
+
+![serialmonitor](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/020.png)
+
+![serialmonitor](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/021.png)
+
+we can simply control the LED that connected to the NodeMCU by Toggle the Digital Switch . Yes , we just did some intenet connected Devices . we can now control the light anywhere in the world .
+
+
+## 5. Google Assistant Integration
+
+
+
 
 
 
