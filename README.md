@@ -54,6 +54,44 @@ In the following window type `mqtt` and just wait a sec , it will load mqtt rela
 
 Now we can see the Adafruit MQTT Lib on the Third one , select the latest verison and click install . that's all.
 
+## 2. Setup Adafruit.io - Cloud 
+
+We are using [Adafruit.io](https://io.adafruit.com) as the MQTT Broker and it's also have dashboard with lot of widgets  .So first you need to create an account if you did't have one [Adafruit.io](https://io.adafruit.com) or login with your credentials. 
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/008.png)
+
+after login , create MQTT feed by clicking **Feeds** on the left menu bar and Click `create a New Feed` under the `Actions` bar .
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/009.png)
+
+In the following window give a name for our new Feed , like **onoff** and click create. next we need to setup a dashboard for UI control , for that click **Dashboard** on the left menu bar and clikc `create a New Dashboard` under `bar`.
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/010.png)
+
+give a name to our new dashboard , I just put **Switch** . 
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/011.png)
+
+Now we can see the dashbord listed under the dashboard menu .
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/012.png)
+
+for editing the dashboard , select the dashboard by check the check box and click `create a new block` on top right menu .and the following window select the ***Toggle* .
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/013.png)
+
+on the next step select the right Group/Feed and clikc `Next setp`.
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/014.png)
+
+next we setup the `Block` , just leave as default and click `Create block`
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/015.png)
+
+and We are done with the cloud part , our dashbord will look like this .
+
+![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/016.png)
+
 
 ## Code 
 
