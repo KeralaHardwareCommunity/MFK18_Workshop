@@ -76,7 +76,7 @@ Now we can see the dashbord listed under the dashboard menu .
 
 ![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/012.png)
 
-for editing the dashboard , select the dashboard by check the check box and click `create a new block` on top right menu .and the following window select the ***Toggle* .
+for editing the dashboard , select the dashboard by check the check box and click `create a new block` on top right menu .and the following window select the **Toggle** .
 
 ![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/013.png)
 
