@@ -50,7 +50,7 @@ For MQTT we are using Adafruit.io broker and for that we need to install Adafrui
 
 In the following window type `mqtt` and just wait a sec , it will load mqtt related lib .
 
-![mqtt](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/007.jpg)
+![mqtt](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/007.JPG)
 
 Now we can see the Adafruit MQTT Lib on the Third one , select the latest verison and click install . that's all.
 
