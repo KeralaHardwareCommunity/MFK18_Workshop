@@ -22,13 +22,13 @@ Open Arduino IDE and add additional Board URL `` File => Preference (Ctrl + Comm
 
 ![additional Board URL File](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/001.jfif)
 
-In Additional Boards Manager, click add and paste the URL there  `` http://arduino.esp8266.com/stable/package_esp8266com_index.json ``
-
+In Additional Boards Manager, click add and paste the URL there `` http://arduino.esp8266.com/stable/package_esp8266com_index.json ``
 And click "OK".
 
 ![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/002.jfif)
 
 ![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/003.jfif)
+
 
 **Download Board Definitions**
 
