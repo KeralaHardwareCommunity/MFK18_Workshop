@@ -278,6 +278,28 @@ we can simply control the LED that connected to the NodeMCU by Toggle the Digita
 
 ## 5. Google Assistant Integration
 
+now we are just connected the our hardware module to the internet and we can now control it anywhere in the world ,  but it's little bit tricky to open the adafruit.io for only turn on the light , now days voice is the new interface so can do anything with our voice , we also have several voice assistant like Amazon Alexa , Google Assistant ...ect . so now we are going to control our device with a voice , more precisely ***Google Assistant*** in a simple way . let's do it.
+
+### IFTTT 
+
+ If This Then That, also known as IFTTT, is a free web-based service to create chains of simple conditional statements, called applets. An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Telegram, Instagram, or Pinterest.
+
+ so we are using the IFTTT to triger the Adafruit.io from the Google Assistant . 
+
+ first we need to create an account [IFTTT](https://ifttt.com/).and click ***New Applet***
+
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/022.png)
+
+Click ***this*** button and select the google assistant from the service .
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/023.png)
+
+next choose a trigger from the listed items , for our application I used ***Say a simple phrase***
+
+![IFTTT](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/024.png)
+
+
 
 
 
