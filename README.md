@@ -26,19 +26,19 @@ In Additional Boards Manager, click add and paste the URL there  `` http://ardui
 
 And click "OK".
 
-![nodemcu](002)
+![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/002.jfif)
 
-![nodemcu](003)
+![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/003.jfif)
 
 **Download Board Definitions**
 
 Open Board Manager by going to `` Tools => Board => Boards Manger ``
 
-![nodemcu](004)
+![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/004.jfif)
 
 Open Boards Manager and search for NodeMCU:
 
-![nodemcu](005)
+![nodemcu](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/005.jfif)
 
 Note: It only appears if you set the NodeMCU Board URL (1.1)
 
