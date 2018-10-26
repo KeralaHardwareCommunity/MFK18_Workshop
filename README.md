@@ -93,7 +93,7 @@ and We are done with the cloud part , our dashbord will look like this .
 ![adafruit](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/016.png)
 
 
-## Code 
+## 3.Programming 
 
 Next upload the code , for that we need set target board in the Arduino IDE.
 
