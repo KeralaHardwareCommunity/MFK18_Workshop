@@ -1,6 +1,6 @@
 # Connected Things Workshop 
 
-In this workshop we will learn about how to control things using your voice, for this we are using Google Assistant as Interface and NodeMCU as Controller and Adafruit.io as Cloud, The NodeMCU is an opensource development board using esp8266.  
+In this workshop we will learn about how to control things using your voice, for this we are using Google Assistant as Interface and NodeMCU as Controller and Adafruit.io as Cloud, The NodeMCU is an opensource development board using esp8266.  and this is step by step guide complete the workshop. 
 
 ## Pre-requirements 
 
@@ -10,5 +10,36 @@ In this workshop we will learn about how to control things using your voice, for
 - USB micro to Mini Cable
 - Internet Connectivity 
 - Beginner level knowledge in programming 
+
+## 1. Setup Arduino IDE
+
+You can download and Install Arduino IDE from here [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+In default Arduino IDE only Support Native boards like UNO,Nano.. etc , so we need to install NodeMCU Board  and MQTT Libraries .
+
+ **NodeMCU Board Definition**
+
+Open Arduino IDE and add additional Board URL `` File => Preference (Ctrl + Comma) ``
+
+![additional Board URL File](001)
+
+In Additional Boards Manager, click add and paste the URL there  `` http://arduino.esp8266.com/stable/package_esp8266com_index.json ``
+
+And click "OK".
+
+![nodemcu](002)
+
+![nodemcu](003)
+
+**Download Board Definitions**
+
+Open Board Manager by going to `` Tools => Board => Boards Manger ``
+
+![nodemcu](004)
+
+Open Boards Manager and search for NodeMCU:
+
+![nodemcu](005)
+
+Note: It only appears if you set the NodeMCU Board URL (1.1)
 
 
