@@ -20,7 +20,8 @@ In default Arduino IDE only Support Native boards like UNO,Nano.. etc , so we ne
 
 Open Arduino IDE and add additional Board URL ` File => Preference (Ctrl + Comma) `
 
-![additional Board URL File](https://github.com/KeralaHardwareCommunity/MFK18_Workshop/blob/master/img/001.jfif)
+![additional Board URL File](https://raw.githubusercontent.com/KeralaHardwareCommunity/MFK18_Workshop/master/img/001.jfif)
+
 
 In Additional Boards Manager, click add and paste the URL there ` http://arduino.esp8266.com/stable/package_esp8266com_index.json `
 And click "OK".
