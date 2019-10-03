@@ -2,6 +2,8 @@
 
 In this workshop we will learn about how to control things using your voice, for this we are using Google Assistant as Interface and NodeMCU as Controller and Adafruit.io as Cloud, The NodeMCU is an opensource development board using esp8266.  and this is step by step guide complete the workshop. 
 
+For regarding any help please use [makergram.com](https://community.makergram.com/)
+
 ## Pre-requirements 
 
 - Laptop
